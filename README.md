@@ -93,3 +93,4 @@ It leverages:
 
 Made with 💻 by **Julia Laskar**  
 📩 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+Email: julialaskar.data@gmail.com
